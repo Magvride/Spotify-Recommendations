@@ -1,4 +1,4 @@
-##🎧 Sistema de Recomendação de Músicas com Dados do Spotify
+## 🎧 Sistema de Recomendação de Músicas com Dados do Spotify
 
 Este projeto utiliza técnicas de ciência de dados e aprendizado de máquina para desenvolver um sistema de recomendação de músicas com base em dados reais da plataforma Spotify.
 
