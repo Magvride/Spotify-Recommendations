@@ -2,7 +2,8 @@
 
 Este projeto utiliza técnicas de ciência de dados e aprendizado de máquina para desenvolver um sistema de recomendação de músicas com base em dados reais da plataforma Spotify.
 
-🚀 Objetivo
+
+# 🚀 Objetivo
 
 Criar um modelo inteligente capaz de recomendar faixas musicais personalizadas a partir de características como:
 
@@ -18,7 +19,7 @@ Valência (positividade da música)
 
 Tempo (BPM), entre outros.
 
-🧠 Técnicas Utilizadas
+# 🧠 Técnicas Utilizadas
 
 Análise exploratória de dados (EDA)
 
@@ -36,7 +37,7 @@ Clustering com K-Means
 
 Visualizações interativas com bibliotecas como Plotly, Seaborn e Matplotlib
 
-🎵 Fonte dos Dados
+# 🎵 Fonte dos Dados
 
 Os dados utilizados foram pegados do Kaggle.com
 
