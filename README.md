@@ -7,15 +7,15 @@ Este projeto utiliza técnicas de ciência de dados e aprendizado de máquina pa
 
 Criar um modelo inteligente capaz de recomendar faixas musicais personalizadas a partir de características como:
 
-Gênero
+  Gênero
 
-Popularidade
+  Popularidade
 
-Energia
+  Energia
+  
+  Dançabilidade
 
-Dançabilidade
-
-Valência (positividade da música)
+  Valência (positividade da música)
 
 Tempo (BPM), entre outros.
 
